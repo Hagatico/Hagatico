@@ -11,4 +11,3 @@
 
 - [Mimes & Coins](https://hagatico.itch.io/mimes-and-coins)
 
-[itchio]: https://hagatico.itch.io/
