@@ -1,4 +1,4 @@
-## Hello, my name is Hagático, and I'm a Novice Game Developer!!
+## Hello, my name is Hagático, and I'm a novice game developer!
 
 ### 👥 | Social Media:
 
